@@ -60,10 +60,12 @@ http://172.72.72.5:8080/73/tracks-v1a1/mono.m3u8
 http://172.72.72.5:8080/62/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_HD
 http://172.72.72.5:8080/8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,INDIPENDENT_TV_HD
+http://172.72.72.5:8080/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNel_9_HD
 http://172.19.178.59:18190/SN-ST-TV-29/tracks-v1a1/mono.m3u8
-#EXTINF:-1,INDIPENDENT_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_MAX_HD
+http://172.72.72.5:8080/60/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLA_TV_HD
@@ -75,15 +77,15 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1,JALSHA_MOVIES_HD
 http://172.72.72.5:8080/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS_HD
-http://97.74.103.44:8089/nimble_live/sarplushd/chunks.m3u8
+http://172.72.72.5:8080/44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9X_JALWA
 http://97.74.103.44:8089/load/9x_jalwa/chunks.m3u8
 #EXTINF:-1,SONY_AAT_HD
-http://97.74.103.44:8089/load/sony_aat/chunks.m3u8
+http://172.72.72.5:8080/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GAAN_BANGLA_HD
 http://97.74.103.44:8089/load/gaanbangla/chunks.m3u8
 #EXTINF:-1,SONY_TV_HD
-http://97.74.103.44:8089/load/Sony_HD/chunks.m3u8
+http://172.72.72.5:8080/16/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_HD
 http://172.72.72.5:8080/59/tracks-v1a1/mono.m3u8
 #EXTINF:-1,&_PICTURES_HD
@@ -101,9 +103,11 @@ http://97.74.103.44:8089/nimble_live/andprive/chunks.m3u8
 #EXTINF:-1,NAT_GEO_WILD_HD
 http://172.72.72.5:8080/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ANIMAL_PLANET_HD
-http://97.74.103.44:8089/load/animal_planet_hd/chunks.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
 #EXTINF:-1,DISCOVERY_HD
-http://97.74.103.44:8089/load/discovery_history/chunks.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_26.m3u8
 #EXTINF:-1,HISTORY_HD
 http://97.74.103.44:8089/nimble_live/history/chunks.m3u8
+#EXTINF:-1,MOVIES_NOW_HD
+http://172.72.72.5:8080/85/tracks-v1a1/mono.m3u8
 
