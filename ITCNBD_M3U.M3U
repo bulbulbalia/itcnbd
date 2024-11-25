@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TRAVEL_XP_HD
 http://172.72.72.5:8080/72/tracks-v1a1/mono.m3u8
-#EXF:-1,EKHON_HD
+#EXTINF:-1,EKHON_HD
 http://server.itcnbd.live/36/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ANONDO_TV_HD
 http://172.72.72.5:8080/61/tracks-v1a1/mono.m3u8
