@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,BTV_HD
+http://10.77.218.14:8082/btv_world/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,TRAVEL_XP_HD
 http://172.72.72.5:8080/72/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKHON_HD
@@ -23,13 +25,17 @@ http://172.72.72.5:8080/15/tracks-v1a1/mono.m3u8
 http://172.72.72.5:8080/75/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://172.72.72.5:8080/91/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NEWS_24_HD
+http://10.77.218.14:8082/news_24_hd/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,DBC_NEWS_HD
 http://172.72.72.5:8080/47/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DESH_TV_HD
+http://10.77.218.14:8082/desh_news/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,SA_TV_HD
 http://172.72.72.5:8080/74/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BOISHAKHI_TV_HD
 http://172.72.72.5:8080/23/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BANGLAVISION_HD
+#EXTINF:-1,BANGLA_VISION_HD
 http://172.72.72.5:8080/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_BANGLA_TV_HD
 http://172.72.72.5:8080/25/tracks-v1a1/mono.m3u8
