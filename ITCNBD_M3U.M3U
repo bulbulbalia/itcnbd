@@ -3,7 +3,7 @@
 http://itcnbd.live/cloudtv/1745134806335.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
 http://itcnbd.live/cloudtv/1754777282627.m3u8
-#EXTINF:-1,EKHON_HD
+#EXTINF:-1,EKHON_TV_HD
 http://itcnbd.live/cloudtv/1743554160090.m3u8
 #EXTINF:-1,ANONDO_TV_HD
 http://itcnbd.live/cloudtv/1743555141100.m3u8
@@ -79,8 +79,6 @@ http://itcnbd.live/cloudtv/1753855556130.m3u8
 http://itcnbd.live/cloudtv/1744662448484.m3u8
 #EXTINF:-1,ZEE_BANGLA_SHONAR_HD
 http://itcnbd.live/cloudtv/1744662526474.m3u8
-#EXTINF:-1,ZEE_BANGLA_CINEMA_HD
-http://172.72.72.5:8080/57/tracks-v1a1/mono.m3u8
 #EXTINF:-,COLORS_BANGLA_CINEMA_HD
 http://itcnbd.live/cloudtv/1744662529474.m3u8
 #EXTINF:-1,AAKASH_ATH_HD
@@ -127,4 +125,5 @@ http://itcnbd.live/cloudtv/1744664115724.m3u8
 http://itcnbd.live/cloudtv/1752458128049.m3u8
 #EXTINF:-1,PTV_SPORTS_HD
 http://itcnbd.live/cloudtv/1743555756615.m3u8
+
 
