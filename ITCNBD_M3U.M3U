@@ -5,6 +5,8 @@ http://itcnbd.live/cloudtv/1745134806335.m3u8
 http://itcnbd.live/cloudtv/1754777282627.m3u8
 #EXTINF:-1,EKHON_TV_HD
 http://itcnbd.live/cloudtv/1743554160090.m3u8
+#EXTINF:-1,NTV_HD
+http://itcnbd.live/cloudtv/1743552070126.m3u8
 #EXTINF:-1,ANONDO_TV_HD
 http://itcnbd.live/cloudtv/1743555141100.m3u8
 #EXTINF:-1,MASRANGA_HD
@@ -21,8 +23,6 @@ http://itcnbd.live/cloudtv/1754777213034.m3u8
 http://itcnbd.live/cloudtv/1743663429051.m3u8
 #EXTINF:-1,CHANNEL_24_hD
 http://itcnbd.live/cloudtv/1754777313495.m3u8
-#EXTINF:-1,T_SPORTS_HD
-http://itcnbd.live/cloudtv/1051747924260.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://itcnbd.live/cloudtv/1758441208053.m3u8
 #EXTINF:-1,INDIPENDENT_TV_HD
@@ -51,8 +51,6 @@ http://itcnbd.live/cloudtv/1743554442703.m3u8
 http://itcnbd.live/cloudtv/1743554926099.m3u8
 #EXTINF:-1,RTV_HD
 http://itcnbd.live/cloudtv/1743551064875.m3u8
-#EXTINF:-1,NTV_HD
-http://itcnbd.live/cloudtv/1743552070126.m3u8
 #EXTINF:-1,NEXUS_TV_HD
 http://itcnbd.live/cloudtv/1754777300139.m3u8
 #EXTINF:-1,CHANNEL_9_HD
@@ -65,6 +63,8 @@ http://itcnbd.live/cloudtv/1743554809292.m3u8
 http://itcnbd.live/cloudtv/1754777332628.m3u8
 #EXTINF:-1,MOHONA_TV_HD
 http://itcnbd.live/cloudtv/1754777324133.m3u8
+#EXTINF:-1,T_SPORTS_HD
+http://itcnbd.live/cloudtv/1757848679775.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
 http://itcnbd.live/cloudtv/174328513220.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
@@ -81,10 +81,10 @@ http://itcnbd.live/cloudtv/1744662448484.m3u8
 http://itcnbd.live/cloudtv/1744662526474.m3u8
 #EXTINF:-,COLORS_BANGLA_CINEMA_HD
 http://itcnbd.live/cloudtv/1744662529474.m3u8
-#EXTINF:-1,AAKASH_AATH_HD
-http://itcnbd.live/cloudtv/1744662527574.m3u8
 #EXTINF:-1,ENTER_10_BANGLA_HD
 http://itcnbd.live/cloudtv/1744662529481.m3u8
+#EXTINF:-1,AAKASH_AATH_HD
+http://itcnbd.live/cloudtv/1744662527574.m3u8
 #EXTINF:-1,RONGEEN_TV_HD
 http://itcnbd.live/cloudtv/1744662529492.m3u8
 #EXTINF:-1,RUPSHEE_BANGLA_HD
@@ -125,6 +125,3 @@ http://itcnbd.live/cloudtv/1744664115724.m3u8
 http://itcnbd.live/cloudtv/1752458128049.m3u8
 #EXTINF:-1,PTV_SPORTS_HD
 http://itcnbd.live/cloudtv/1743555756615.m3u8
-
-
-
